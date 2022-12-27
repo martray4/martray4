@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/martray4/post-install-config)
   - [VPN Setup and Usage (ProtonVPN)](https://github.com/martray4/virtual-private-networking)
 - <b>Microsoft Azure</b>
-  - [Creating Resources in Azure](https://github.com/martray4/azure-networking)
+  - [Creating Resources in Microsoft Azure](https://github.com/martray4/azure-networking)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/martray4/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
