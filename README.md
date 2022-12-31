@@ -12,4 +12,4 @@
 
 <h2>🤳Connect with me:</h2>
 
-https://www.linkedin.com/in/martin-raymond-onukogu-
+https://www.linkedin.com/in/martin-raymond-onukogu-a0674025a/
